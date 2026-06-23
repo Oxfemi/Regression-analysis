@@ -24,7 +24,7 @@ This project analyzes a marketing dataset to determine which advertising channel
 | File                                       | Description                                                                                    |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | `regression_analysis.ipynb`                | Jupyter Notebook with full analysis — EDA, OLS model, diagnostics, and business interpretation |
-| `marketing_and_sales_data_evaluate_lr.csv` | Dataset used for the analysis                                                                  |
+| `marketing_and_sales_data_evaluate_ir.csv` | Dataset used for the analysis                                                                  |
 | `README.md`                                | Project overview and setup instructions                                                        |
 
 ## Environment Setup
@@ -43,7 +43,7 @@ pip install pandas numpy matplotlib seaborn statsmodels scipy
    cd <repo-folder>
    ```
 2. Install the required dependencies (see above)
-3. Ensure `marketing_and_sales_data_evaluate_lr.csv` is in the same directory as the notebook
+3. Ensure `marketing_and_sales_data_evaluate_ir.csv` is in the same directory as the notebook
 4. Open `regression_analysis.ipynb` in Jupyter Notebook, JupyterLab, or VS Code
 5. Run all cells in order (Run All)
 
